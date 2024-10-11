@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: math
+    name: yukimath
     env: python
     region: Oregon
     plan: free
